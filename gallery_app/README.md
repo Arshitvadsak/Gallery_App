@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/121868653/235405915-93eda99f-4c39-45b0-a84f-abe65ce7dc5f.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/121868653/235412029-976997cf-cf92-4f1c-8c7d-f78ea162af96.jpg" width="600px">
 
 
-# **Currency Converter App**
+# **Gallery App**
 Made by Arshit Vadsak
 
 ---
@@ -12,24 +12,24 @@ Made by Arshit Vadsak
 
 ## 🗒 About
 
-151 of currency exchange rates and the exchange rate lookup and calculation comparison list
+All images
 
 ## ⚙️ Features
 
 - Main features are as follows:
 
     - Splash Page
-    - List of currency rate
-    - Currency Converter
+    - List of images
     - Light and dark theme
     
 ## 📲 Screenshots
-<img align="left" src="https://user-images.githubusercontent.com/121868653/235407936-7d163eee-f187-4e34-8d19-60f5bbf5e945.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121868653/235407944-f559c91e-60f9-45ce-9e7b-a8020f8f2b33.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121868653/235406398-1abc714f-a7d7-42fc-ae95-43e4f2857106.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121868653/235406415-969ac9c0-a823-4049-8bcb-2a1a6410be31.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121868653/235406472-8c0b1bdd-006a-4a25-861a-6d572acbe63f.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121868653/235406484-ed76a7e6-1ba1-4fb5-9972-d6d4d0cf8976.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121868653/235406502-76f6445f-283a-48da-a896-ec3c5f924285.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/121868653/235410495-0cbf76df-8564-4136-a086-7230173ffd42.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121868653/235412564-4be3fe4b-92a3-4817-9952-5d3bbbb99d7c.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121868653/235412107-a0cabfe6-7886-4d67-a99d-7852c8e642ea.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121868653/235412123-d05f0982-f2b5-4721-a5dd-4102b5e807c8.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121868653/235412131-b03f1279-833f-4b6b-b292-cd3e1d0d1f89.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121868653/235412150-698632ae-9a6e-459c-ac6d-66bb89a57f20.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121868653/235412154-1623096c-1881-4f5d-9836-afcbf961ffe6.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121868653/235412169-8de8ded6-8f62-44d8-bf4f-3d650909a3e7.jpg" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/121868653/235412173-17f3a0e2-7173-4dd8-a59a-dac29be60f24.jpg" width="220px">
+
 
